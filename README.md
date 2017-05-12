@@ -10,11 +10,11 @@ There are two versions of my bio: [short](#short) and [long](#long). They are wr
 
 ### Short
 
-Max works as an open source developer at [Thinkmill](https://thinkmill.com.au). He makes styled-components, react-boilerplate, KeystoneJS and micro-analytics.
+Max is the technical cofounder of Spectrum.chat. He makes styled-components, react-boilerplate, KeystoneJS and micro-analytics.
 
 ### Long
 
-Max is an Open Source Developer at Thinkmill, where he takes care of KeystoneJS and ElementalUI. He also makes styled-components, react-boilerplate, micro-analytics and a bunch of other open source projects and he co-organises the ReactVienna meetup. He loves to travel, to brew rad coffee and to ski beautiful mountains.
+Max is the technical cofounder of Spectrum.chat, the community platform of the future. He also makes styled-components, react-boilerplate, micro-analytics and a bunch of other open source projects and he co-organises the ReactVienna meetup. He loves to travel, to brew rad coffee and to ski beautiful mountains.
 
 ## Photos
 

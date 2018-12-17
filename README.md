@@ -10,19 +10,17 @@ There are two versions of my bio: [short](#short) and [long](#long). They are wr
 
 ### Short
 
-Max is the technical cofounder of Spectrum.chat. He makes styled-components, react-boilerplate, KeystoneJS and micro-analytics.
+Max is a senior software enginner at GitHub, previously the CTO of Spectrum.chat. He's known for making styled-components, react-boilerplate and micro-analytics.
 
 ### Long
 
-Max is the technical cofounder of Spectrum.chat, the community platform of the future. He also makes styled-components, react-boilerplate, micro-analytics and a bunch of other open source projects and he co-organises the ReactVienna meetup. He loves to travel, to brew rad coffee and to ski beautiful mountains.
+Max is a senior software engineer at GitHub and previously the technical cofounder of Spectrum.chat. He's known for making styled-components, react-boilerplate, micro-analytics and a bunch of other open source projects and co-organises the ReactVienna meetup. He loves to travel, to brew rad coffee and to ski beautiful mountains.
 
 ## Photos
 
-You can get a HQ version of my profile image here: `http://mxstbr.com/headshot.jpeg`. (careful: very high quality, 4000x4000px)
+You can get a HQ version of my profile image here: `http://mxstbr.com/static/images/headshot.jpeg`. (careful: very high quality, 4000x4000px)
 
-[![My profile image](https://img.gs/jztmrqvgzv/200x200/mxstbr.com/headshot.jpeg)](http://mxstbr.com/headshot.jpeg)
-
-> You can also use the link directly instead of downloading the image, as I plan to keep the link for the years to come. Please don't forget to load it through an image CDN like `img.gs` though, so your users don't have to load megabytes of image data!
+[![My profile image](https://img.gs/jztmrqvgzv/200x200/mxstbr.com/static/images/headshot.jpeg)](https://mxstbr.com/static/images/headshot.jpeg)
 
 There is also a `/photos` directory in this repository containing a variety of photos of me that you can use.
 
